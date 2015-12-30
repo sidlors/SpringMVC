@@ -1,4 +1,4 @@
-package net.roseindia.form; 
+package mx.com.sidlors.mvc.form; 
 public class User {
 	   private String userName;
 	   private String email;	   

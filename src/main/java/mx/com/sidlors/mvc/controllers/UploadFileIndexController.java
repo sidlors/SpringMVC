@@ -1,4 +1,4 @@
-	package net.roseindia.controllers;
+	package mx.com.sidlors.mvc.controllers;
 	
 	import java.util.Map;
 	import org.springframework.stereotype.Controller;

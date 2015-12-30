@@ -1,6 +1,6 @@
-package net.roseindia.controllers;
+package mx.com.sidlors.mvc.controllers;
 
-import net.roseindia.form.ValidationForm;
+import mx.com.sidlors.mvc.form.ValidationForm;
 import java.util.Map;
 import javax.validation.Valid;
 import org.springframework.stereotype.Controller;

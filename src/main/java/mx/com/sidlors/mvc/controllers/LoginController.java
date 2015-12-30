@@ -1,4 +1,4 @@
-package net.roseindia.controllers;
+package mx.com.sidlors.mvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -7,7 +7,7 @@ import org.springframework.validation.BindingResult;
 import java.util.Map;
 import javax.validation.Valid;
 
-import net.roseindia.form.LoginForm;
+import mx.com.sidlors.mvc.form.LoginForm;
 
 @Controller
 @RequestMapping("loginform.html")

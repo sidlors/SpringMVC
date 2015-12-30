@@ -1,4 +1,4 @@
-package net.roseindia.form;
+package mx.com.sidlors.mvc.form;
 import javax.validation.constraints.Size;
 import org.hibernate.validator.constraints.NotEmpty;
 public class LoginForm {

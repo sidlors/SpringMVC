@@ -1,5 +1,5 @@
-package net.roseindia.controllers;
-import net.roseindia.form.User;
+package mx.com.sidlors.mvc.controllers;
+import mx.com.sidlors.mvc.form.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;

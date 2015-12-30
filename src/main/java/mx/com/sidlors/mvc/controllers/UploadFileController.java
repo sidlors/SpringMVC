@@ -1,4 +1,4 @@
-package net.roseindia.controllers;
+package mx.com.sidlors.mvc.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,7 +15,7 @@ import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.io.OutputStream;
 import javax.servlet.http.*;
-import net.roseindia.form.UploadItem;
+import mx.com.sidlors.mvc.form.UploadItem;
 import org.springframework.web.multipart.MultipartFile;
 
 @Controller

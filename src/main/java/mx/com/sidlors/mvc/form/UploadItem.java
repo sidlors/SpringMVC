@@ -1,4 +1,4 @@
-package net.roseindia.form;
+package mx.com.sidlors.mvc.form;
 
 import org.springframework.web.multipart.commons.CommonsMultipartFile;
 

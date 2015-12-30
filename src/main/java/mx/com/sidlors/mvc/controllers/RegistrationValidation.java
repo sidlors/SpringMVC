@@ -1,9 +1,9 @@
-package net.roseindia.controllers;
+package mx.com.sidlors.mvc.controllers;
 
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
-import net.roseindia.form.Registration;
+import mx.com.sidlors.mvc.form.Registration;
 
 @Component("registrationValidator")
 public class RegistrationValidation {

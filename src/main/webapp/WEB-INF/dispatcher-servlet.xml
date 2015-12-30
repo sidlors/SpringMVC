@@ -15,7 +15,7 @@
 	<!-- Enable annotation driven controllers, validation etc... -->
 	<mvc:annotation-driven />
 
-	<context:component-scan base-package="net.roseindia.controllers" />
+	<context:component-scan base-package="mx.com.sidlors.mvc.controllers" />
 
 	<bean id="viewResolver"
 		class="org.springframework.web.servlet.view.InternalResourceViewResolver">

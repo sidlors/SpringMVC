@@ -1,4 +1,4 @@
-package net.roseindia.controllers;
+package mx.com.sidlors.mvc.controllers;
 
 import org.springframework.web.servlet.ModelAndView;
 import org.springframework.stereotype.Controller;
